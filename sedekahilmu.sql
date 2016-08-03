@@ -204,7 +204,7 @@ CREATE TABLE IF NOT EXISTS `tbl_users` (
 --
 
 INSERT INTO `tbl_users` (`user_id`, `userlevel_id`, `nama`, `password`, `email`, `profile`, `facebook`, `gambar`, `userstatus_id`, `created_at`) VALUES
-(8, 1, 'Andi Rohandi', '$2y$10$Xbo9FZ91hJT.6QnnomjWc.Bn5tf0frvyqML3m9v5dGowF4ClpRUpO', 'andirohandi.amdroid@gmail.com', 'Perkenalkan nama saya Andi Rohandi, Saya tinggal di kota Bandung.', 'https://www.facebook.com/secangkirairdigurunpasir', 'uploads/profile/bubar.png', 1, '2016-06-19 02:38:29');
+(8, 1, 'Andi Rohandi', '$2y$10$Xbo9FZ91hJT.6QnnomjWc.Bn5tf0frvyqML3m9v5dGowF4ClpRUpO', 'admin@gmail.com', 'Perkenalkan nama saya Andi Rohandi, Saya tinggal di kota Bandung.', 'https://www.facebook.com/secangkirairdigurunpasir', 'uploads/profile/bubar.png', 1, '2016-06-19 02:38:29');
 
 -- --------------------------------------------------------
 
