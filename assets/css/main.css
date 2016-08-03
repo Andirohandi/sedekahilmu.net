@@ -1,0 +1,109 @@
+.btn-trans{
+    border: 1px solid #888888;
+    background: transparent;
+    color: #fff;
+}
+
+.btn-trans:hover{
+    background: #fff;
+}
+
+.btn-trans-active{
+    background: #fff;
+}
+
+ol > li > a{
+    color: #900E18;
+}
+
+.panel .panel-primary{
+    border: 1px solid #fff;
+}
+
+.left-sidebar{
+    border-right:1px solid #D2DDE;
+}
+
+.left-sidebar .panel .panel-heading{
+    border-right:1px solid #ef5350;
+}
+
+.footer{
+    margin-bottom:-10px;min-height:100px;
+    background: #720B13;
+    color: #fff;
+    padding-top: 20px;
+}
+
+/* anvigas menu  */
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+color: #fff;
+background-color: #428bca;
+}
+
+.margintop20 {
+    margin-top:20px;
+}
+
+.nav-pills>li>a {
+border-radius: 0px;
+}
+
+a {
+color: #000;
+text-decoration: none;
+}
+
+a:hover {
+color: #000;
+text-decoration: none;
+}
+
+
+.nav-stacked>li+li {
+margin-top: 0px;
+margin-left: 0;
+border-bottom:1px dotted #dadada;
+}
+
+.active2 {
+    border-right:4px solid red;
+    border-bottom:1px dotted #dadada;
+}
+
+/* foto profile */
+.drop-area{
+  width:100px;
+  height:45px;
+  border: 1px solid #999;
+  text-align: center;
+  padding:10px;
+  cursor:pointer;
+}
+#thumbnail img{
+  width:128px;
+  height:128px;
+  margin:5px;
+}
+canvas{
+  border:1px solid red;
+}
+
+/* thumbnails */
+.thumbnail .title{
+    background: #E0E0E0;
+    color: #fff;
+    padding:2px 5px;
+    margin-bottom: 5px;
+    min-height: 50px;
+}
+
+.thumbnail:hover{
+    background: #ffcdd2 !important;
+    border:1px dotted #ef9a9a;
+}
+
+.title a{
+    font-size:15px;
+    color: #424242;
+}
